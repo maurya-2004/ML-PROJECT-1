@@ -1,0 +1,16 @@
+# Ignore data and models if not needed in repo
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.joblib
+
+# Ignore project report file
+*.docx
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE or editor folders
+.vscode/
+.idea/
