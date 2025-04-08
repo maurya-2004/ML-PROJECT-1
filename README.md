@@ -1,10 +1,10 @@
-# 💧 Water Quality Potability Prediction
+# Water Quality Potability Prediction
 
 This project aims to predict whether water is **potable (safe to drink)** or **non-potable** using machine learning techniques based on various physicochemical properties of water.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Objectives](#objectives)
@@ -19,13 +19,13 @@ This project aims to predict whether water is **potable (safe to drink)** or **n
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Access to clean drinking water is critical for health and well-being. This project helps identify unsafe water sources by predicting potability based on chemical parameters like pH, solids, chloramines, turbidity, etc.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Build a machine learning model to classify water as **potable** or **non-potable**.
 - Analyze and understand the factors affecting water quality.
@@ -33,7 +33,7 @@ Access to clean drinking water is critical for health and well-being. This proje
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Samples**: 3,279
 - **Features**: pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, Turbidity, Potability
@@ -45,7 +45,7 @@ Access to clean drinking water is critical for health and well-being. This proje
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 - **Data Preprocessing**: 
   - Handled missing values
@@ -82,7 +82,7 @@ Access to clean drinking water is critical for health and well-being. This proje
 
 ---
 
-## ⭐ Feature Importance
+##  Feature Importance
 
 Top 5 features impacting potability prediction:
 
@@ -94,7 +94,7 @@ Top 5 features impacting potability prediction:
 
 ---
 
-## ⚠️ Challenges & Learnings
+##  Challenges & Learnings
 
 ### Challenges
 - Class imbalance (only 39% potable samples)
@@ -108,7 +108,7 @@ Top 5 features impacting potability prediction:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 - Achieved ~65% accuracy in classifying water safety
 - Identified major contributing factors to water potability
@@ -134,7 +134,7 @@ Top 5 features impacting potability prediction:
 
 ---
 
-## 📁 Folder Structure (Optional)
+##  Folder Structure (Optional)
 
 ```bash
 ├── data/              # Raw or sample data files
